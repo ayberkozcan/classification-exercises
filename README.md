@@ -1,4 +1,12 @@
-In this repository, I've put together some classification exercises using various datasets.
+### Classification Exercises
 
-I've tackled steps like data preprocessing, visualization and different classification algorithms.
-Each file showcases how I've applied classification models from getting the data ready to evaluating the results and making predictions.
+This repository contains a collection of small classification projects. Each project focuses on the following steps:
+
+* Data Preprocessing: Cleaning and preparing datasets for analysis.
+* Exploratory Data Analysis (EDA): Investigating relationships and visualizing data to gain insights.
+* Modeling: Applying various classification models to the data.
+* Performance Evaluation: Utilizing ROC curves, AUC, precision-recall curves, and learning curves to evaluate model performance.
+* Error Analysis: Conducting detailed error analysis to understand model shortcomings.
+* Predictions: Making predictions based on the developed models.
+
+These projects aim to explore different aspects of classification, from data preparation to detailed performance analysis.
